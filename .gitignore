@@ -1,0 +1,9 @@
+# .NET
+bin/
+obj/
+appsettings.Development.json
+
+# Node / Expo
+node_modules/
+.expo/
+npm-debug.*
